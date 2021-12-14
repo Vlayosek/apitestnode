@@ -1,0 +1,25 @@
+{
+  "name": "apitestnode",
+  "version": "1.0.0",
+  "description": "apitestnode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vlayosek/apitestnode.git"
+  },
+  "author": "vkozisck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vlayosek/apitestnode/issues"
+  },
+  "homepage": "https://github.com/Vlayosek/apitestnode#readme",
+  "devDependencies": {
+    "eslint": "^8.4.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
